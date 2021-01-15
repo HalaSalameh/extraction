@@ -1,0 +1,493 @@
+1.alternative medicines
+2.herbal products
+2.nutraceutical products
+2.probiotics
+1.anti-infectives
+2.amebicides
+2.aminoglycosides
+2.anthelmintics
+2.antifungals
+3.azole antifungals
+3.echinocandins
+3.miscellaneous antifungals
+3.polyenes
+2.antimalarial agents
+3.antimalarial combinations
+3.antimalarial quinolines
+3.miscellaneous antimalarials
+2.antituberculosis agents
+3.aminosalicylates
+3.antituberculosis combinations
+3.diarylquinolines
+3.hydrazide derivatives
+3.miscellaneous antituberculosis agents
+3.nicotinic acid derivatives
+3.rifamycin derivatives
+3.streptomyces derivatives
+2.antiviral agents
+3.adamantane antivirals
+3.antiviral boosters
+3.antiviral combinations
+3.antiviral interferons
+3.chemokine receptor antagonist
+3.integrase strand transfer inhibitor
+3.miscellaneous antivirals
+3.neuraminidase inhibitors
+3.NNRTIs
+3.NS5A inhibitors
+3.nucleoside reverse transcriptase inhibitors 
+3.NRTIs
+3.protease inhibitors
+3.purine nucleosides
+2.carbapenems
+2.carbapenems
+2.beta-lactamase inhibitors
+2.cephalosporins
+3.beta-lactamase inhibitors
+3.first generation cephalosporins
+3.fourth generation cephalosporins
+3.next generation cephalosporins
+3.second generation cephalosporins
+3.third generation cephalosporins
+2.glycopeptide antibiotics
+2.glycylcyclines
+2.leprostatics
+2.lincomycin derivatives
+2.macrolide derivatives
+3.ketolides
+3.macrolides
+2.miscellaneous antibiotics
+2.oxazolidinone antibiotics
+2.penicillins
+3.aminopenicillins
+3.antipseudomonal penicillins
+3.beta-lactamase inhibitors
+3.natural penicillins
+3.penicillinase resistant penicillins
+2.quinolones
+2.streptogramins
+2.sulfonamides
+2.tetracyclines
+2.urinary anti-infectives
+1.antineoplastics
+2.alkylating agents
+2.anti-CTLA-4 monoclonal antibodies
+2.anti-PD-1 monoclonal antibodies
+1.antibiotics
+2.antineoplastics
+2.antimetabolites
+2.antineoplastic combinations
+2.antineoplastic detoxifying agents
+2.antineoplastic interferons
+2.BCR-ABL tyrosine kinase inhibitors
+2.CD20 monoclonal antibodies
+2.CD30 monoclonal antibodies
+2.CD33 monoclonal antibodies
+2.CD38 monoclonal antibodies
+2.CD52 monoclonal antibodies
+2.CDK 4/6 inhibitors
+2.EGFR inhibitors
+2.hedgehog pathway inhibitors
+2.HER2 inhibitors
+2.histone deacetylase inhibitors
+2.hormones
+2.antineoplastics
+2.malignancy photosensitizers
+2.miscellaneous antineoplastics
+2.mitotic inhibitors
+2.mTOR inhibitors
+2.multikinase inhibitors
+2.PARP inhibitors
+2.PI3K inhibitors
+2.proteasome inhibitors
+2.VEGF inhibitors
+2.VEGFR inhibitors
+1.biologicals
+2.antitoxins
+2.hematopoietic stem cell mobilizer
+2.in vivo diagnostic biologicals
+2.recombinant human erythropoietins
+1.cardiovascular agents
+2.agents for hypertensive emergencies
+2.agents for pulmonary hypertension
+2.aldosterone receptor antagonists
+2.Angiotensin Converting Enzyme Inhibitors
+2.angiotensin receptor blockers
+2.angiotensin receptor blockers and neprilysin inhibitors
+2.antiadrenergic agents, centrally acting
+2.antiadrenergic agents, peripherally acting
+2.antianginal agents
+2.antiarrhythmic agents
+3.group I antiarrhythmics
+3.group II antiarrhythmics
+3.group III antiarrhythmics
+3.group IV antiarrhythmics
+3.group V antiarrhythmics
+2.anticholinergic chronotropic agents
+2.antihypertensive combinations
+3.ACE inhibitors with calcium channel blocking agents
+3.ACE inhibitors with thiazides
+3.angiotensin II inhibitors with calcium channel blockers
+3.angiotensin II inhibitors with thiazides
+3.antiadrenergic agents (central) with thiazides
+3.antiadrenergic agents (peripheral) with thiazides
+3.beta blockers with thiazides
+3.miscellaneous antihypertensive combinations
+3.potassium sparing diuretics with thiazides
+2.beta-adrenergic blocking agents
+3.cardioselective beta blockers
+3.non-cardioselective beta blockers
+2.calcium channel blocking agents
+2.catecholamines
+2.diuretics
+3.carbonic anhydrase inhibitors
+3.loop diuretics
+3.miscellaneous diuretics
+3.potassium-sparing diuretics
+3.thiazide diuretics
+2.inotropic agents
+2.miscellaneous cardiovascular agents
+2.peripheral vasodilators
+2.renin inhibitors
+2.sclerosing agents
+2.vasodilators
+2.vasopressin antagonists
+2.vasopressors
+1.central nervous system agents
+2.analgesics
+3.analgesic combinations
+3.antimigraine agents
+3.CGRP inhibitors
+3.cox-2 inhibitors
+3.miscellaneous analgesics
+3.narcotic analgesic combinations
+3.narcotic analgesics
+3.Nonsteroidal anti-inflammatory drugs
+3.salicylates
+2.anorexiants
+2.anticonvulsants
+3.AMPA receptor antagonists
+3.barbiturate anticonvulsants
+3.benzodiazepine anticonvulsants
+3.carbamate anticonvulsants
+3.carbonic anhydrase inhibitor anticonvulsants
+3.dibenzazepine anticonvulsants
+3.fatty acid derivative anticonvulsants
+3.gamma-aminobutyric acid analogs
+3.gamma-aminobutyric acid reuptake inhibitors
+3.hydantoin anticonvulsants
+3.miscellaneous anticonvulsants
+3.neuronal potassium channel openers
+3.oxazolidinedione anticonvulsants
+3.pyrrolidine anticonvulsants
+3.succinimide anticonvulsants
+3.triazine anticonvulsants
+2.antiemetic
+2.antivertigo agents
+3.5HT3 receptor antagonists
+3.anticholinergic antiemetics
+3.miscellaneous antiemetics
+3.NK1 receptor antagonists
+3.phenothiazine antiemetics
+2.antiparkinson agents
+3.anticholinergic antiparkinson agents
+3.dopaminergic antiparkinsonism agents
+3.miscellaneous antiparkinson agents
+2.anxiolytics, sedatives, and hypnotics
+3.barbiturates
+3.benzodiazepines
+3.miscellaneous anxiolytics, sedatives and hypnotics
+2.cholinergic agonists
+2.cholinesterase inhibitors
+2.CNS stimulants
+2.drugs used in alcohol dependence
+2.general anesthetics
+2.miscellaneous central nervous system agents
+2.muscle relaxants
+3.neuromuscular blocking agents
+3.skeletal muscle relaxant combinations
+3.skeletal muscle relaxants
+2.VMAT2 inhibitors
+1.coagulation modifiers
+2.anticoagulant reversal agents
+2.anticoagulants
+3.coumarins and indandiones
+3.factor Xa inhibitors
+3.heparins
+3.thrombin inhibitors
+2.antiplatelet agents
+3.glycoprotein platelet inhibitors
+3.platelet aggregation inhibitors
+3.protease-activated receptor-1 antagonists
+2.heparin antagonists
+2.miscellaneous coagulation modifiers
+2.platelet-stimulating agents
+2.thrombolytics
+1.gastrointestinal agents
+2.5-aminosalicylates
+2.antacids
+2.antidiarrheals
+2.digestive enzymes
+2.functional bowel disorder agents
+3.anticholinergics
+3.antispasmodics
+3.chloride channel activators
+3.guanylate cyclase-C agonists
+3.NHE3 inhibitors
+3.peripheral opioid receptor antagonists
+3.peripheral opioid receptor mixed agonists
+3.serotoninergic neuroenteric modulators
+2.gallstone solubilizing agents
+2.GI stimulants
+2.H. pylori eradication agents
+2.H2 antagonists
+2.laxatives
+2.miscellaneous GI agents
+2.proton pump inhibitors
+1.genitourinary tract agents
+2.impotence agents
+2.miscellaneous genitourinary tract agents
+2.tocolytic agents
+2.urinary antispasmodics
+2.urinary pH modifiers
+2.uterotonic agents
+1.hormones
+2.5-alpha-reductase inhibitors
+2.adrenal cortical steroids
+3.corticotropin
+3.glucocorticoids
+3.mineralocorticoids
+2.adrenal corticosteroid inhibitors
+2.antiandrogens
+2.antidiuretic hormones
+2.antigonadotropic agents
+2.antithyroid agents
+2.aromatase inhibitors
+2.calcimimetics
+2.calcitonin
+2.estrogen receptor antagonists
+2.gonadotropin-releasing hormone antagonists
+2.growth hormone receptor blockers
+2.growth hormones
+2.insulin-like growth factors
+2.miscellaneous hormones
+2.parathyroid hormone and analogs
+2.progesterone receptor modulators
+2.prolactin inhibitors
+2.selective estrogen receptor modulators
+2.sex hormones
+3.androgens and anabolic steroids
+3.contraceptives
+3.estrogens
+3.gonadotropin releasing hormones
+3.gonadotropins
+3.progestins
+3.sex hormone combinations
+2.somatostatin and somatostatin analogs
+2.synthetic ovulation stimulants
+2.thyroid drugs
+1.immunologic agents
+2.immune globulins
+2.immunostimulants
+3.bacterial vaccines
+3.colony stimulating factors
+3.interferons
+3.interleukins
+3.other immunostimulants
+3.therapeutic vaccines
+3.vaccine combinations
+3.viral vaccines
+2.immunosuppressive agents
+3.calcineurin inhibitors
+3.interleukin inhibitors
+3.other immunosuppressants
+3.selective immunosuppressants
+3.TNF alfa inhibitors
+1.medical gas
+1.metabolic agents
+2.antidiabetic agents
+3.alpha-glucosidase inhibitors
+3.amylin analogs
+3.antidiabetic combinations
+3.dipeptidyl peptidase 4 inhibitors
+3.incretin mimetics
+3.insulin
+3.meglitinides
+3.non-sulfonylureas
+3.SGLT-2 inhibitors
+3.sulfonylureas
+3.thiazolidinediones
+2.antigout agents
+2.antihyperlipidemic agents
+3.antihyperlipidemic combinations
+3.bile acid sequestrants
+3.cholesterol absorption inhibitors
+3.fibric acid derivatives
+3.miscellaneous antihyperlipidemic agents
+3.PCSK9 inhibitors
+3.statins
+2.antihyperuricemic agents
+2.bone resorption inhibitors
+3.bisphosphonates
+3.miscellaneous bone resorption inhibitors
+2.CFTR combinations
+2.CFTR potentiators
+2.glucose elevating agents
+2.lysosomal enzymes
+2.miscellaneous metabolic agents
+2.peripherally acting antiobesity agents
+2.transthyretin stabilizers
+2.urea cycle disorder agents
+1.miscellaneous agents
+2.antidotes
+2.antipsoriatics
+2.antirheumatics
+2.cation exchange resins
+2.chelating agents
+2.cholinergic muscle stimulants
+2.illicit (street) drugs
+2.local injectable anesthetics
+2.local injectable anesthetics with corticosteroids
+2.miscellaneous uncategorized agents
+2.phosphate binders
+2.psoralens
+2.smoking cessation agents
+2.viscosupplementation agents
+1.nutritional products
+2.intravenous nutritional products
+2.iron products
+2.minerals and electrolytes
+2.oral nutritional supplements
+2.vitamin and mineral combinations
+2.vitamins
+1.plasma expanders
+1.psychotherapeutic agents
+2.antidepressants
+3.miscellaneous antidepressants
+3.monoamine oxidase inhibitors
+3.phenylpiperazine antidepressants
+3.selective serotonin reuptake inhibitors
+3.serotonin-norepinephrine reuptake inhibitors
+3.tetracyclic antidepressants
+3.tricyclic antidepressants
+2.antimanic agents
+2.antipsychotics
+3.atypical antipsychotics
+3.miscellaneous antipsychotic agents
+3.phenothiazine antipsychotics
+3.thioxanthenes
+2.psychotherapeutic combinations
+1.radiologic agents
+2.radiocontrast agents
+3.iodinated contrast media
+3.ionic iodinated contrast media
+3.lymphatic staining agents
+3.magnetic resonance imaging contrast media
+3.miscellaneous diagnostic dyes
+3.non-iodinated contrast media
+3.non-ionic iodinated contrast media
+3.ultrasound contrast media
+2.radiologic adjuncts
+3.cardiac stressing agents
+3.radiologic conjugating agents
+2.radiopharmaceuticals
+3.diagnostic radiopharmaceuticals
+3.therapeutic radiopharmaceuticals
+1.respiratory agents
+2.antiasthmatic combinations
+2.antihistamines
+2.antitussives
+2.bronchodilators
+3.adrenergic bronchodilators
+3.anticholinergic bronchodilators
+3.bronchodilator combinations
+3.methylxanthines
+2.decongestants
+2.expectorants
+2.leukotriene modifiers
+2.lung surfactants
+2.miscellaneous respiratory agents
+2.respiratory inhalant products
+3.inhaled anti-infectives
+3.inhaled corticosteroids
+3.mast cell stabilizers
+3.mucolytics
+2.selective phosphodiesterase-4 inhibitors
+2.upper respiratory combinations
+1.topical agents
+2.anorectal preparations
+2.antiseptic and germicides
+2.dermatological agents
+3.miscellaneous topical agents
+3.topical acne agents
+3.topical anesthetics
+3.topical anti-infectives
+3.topical anti-rosacea agents
+3.topical antibiotics
+3.topical antifungals
+3.topical antihistamines
+3.topical antineoplastics
+3.topical antipsoriatics
+3.topical antivirals
+3.topical astringents
+3.topical debriding agents
+3.topical depigmenting agents
+3.topical emollients
+3.topical keratolytics
+3.topical non-steroidal anti-inflammatories
+3.topical photochemotherapeutics
+3.topical rubefacient
+3.topical steroids
+3.topical steroids with anti-infectives
+2.mouth and throat products
+2.nasal preparations
+3.nasal antihistamines and decongestants
+3.nasal lubricants and irrigations
+3.nasal steroids
+2.ophthalmic preparations
+3.anti-angiogenic ophthalmic agents
+3.miscellaneous ophthalmic agents
+3.mydriatics
+3.ophthalmic anesthetics
+3.ophthalmic anti-infectives
+3.ophthalmic anti-inflammatory agents
+3.ophthalmic antihistamines and decongestants
+3.ophthalmic diagnostic agents
+3.ophthalmic glaucoma agents
+3.ophthalmic lubricants and irrigations
+3.ophthalmic steroids
+3.ophthalmic steroids with anti-infectives
+3.ophthalmic surgical agents
+2.otic preparations
+3.cerumenolytics
+3.miscellaneous otic agents
+3.otic anesthetics
+3.otic anti-infectives
+3.otic steroids
+3.otic steroids with anti-infectives
+2.sterile irrigating solutions
+2.vaginal preparations
+3.miscellaneous vaginal agents
+3.spermicides
+3.vaginal anti-infectives
+1.painkiller
+2.antivenins
+1.anti-fever
+1.Anti-dizziness
+1.anti-bacterial
+1.Anti-allergic
+3.Lincosamides
+3.Fat absorption inhibitor
+1.Anti-inflammatory
+3.Anti-inflammatory NSAID
+3.fluoroquinolones
+2.Antidecongestant
+3.Corticosteroid
+2.calcium channel inhibitors
+1.Antipyretic
+1.Pain reliever
+2.iron suppliers
+2.anti-cough
+2.antiscabies
+1.antiviral
+3.NSAIDs
