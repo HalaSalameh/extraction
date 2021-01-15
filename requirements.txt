@@ -24,7 +24,7 @@ PyJWT==1.6.1
 pylint==2.4.4
 pytwain==2.0
 pytz==2018.4
-requests==2.18.4
+requests==2.20.0
 simplejson==3.14.0
 six==1.14.0
 smmap==3.0.1
