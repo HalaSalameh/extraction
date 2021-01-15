@@ -12,13 +12,13 @@ This project is a package made from the project of Information Extraction from A
 This project uses APIs such as UMLS and CRF deep learning
 
 ## Setup
-#To Use the package:
+To Use the package:
 ```
 $cd extraction
 $pip install .
 ```
 
-#Go into the file you want to add the package to, then:
+Go into the file you want to add the package to, then:
 ```
 $import extraction
 ```
