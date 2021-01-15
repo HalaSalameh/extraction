@@ -30,7 +30,15 @@ as patients. The provided data then can be used for many tasks such as answering
 queries that search engines are incapable of.
 
 ## Technologies
-This project uses APIs such as UMLS and CRF deep learning
+This Project uses:
+*Stanford CoreNLP
+*Snowball Stemmer
+*Scikit Learn
+*UMLS API
+*PubChem
+*NLTK
+*Madamira
+*Google Translator & Google Spell Checker
 
 ## Setup
 To Use the package:
