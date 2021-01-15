@@ -31,14 +31,14 @@ queries that search engines are incapable of.
 
 ## Technologies
 This Project uses:
-*Stanford CoreNLP
-*Snowball Stemmer
-*Scikit Learn
-*UMLS API
-*PubChem
-*NLTK
-*Madamira
-*Google Translator & Google Spell Checker
+* Stanford CoreNLP
+* Snowball Stemmer
+* Scikit Learn
+* UMLS API
+* PubChem
+* NLTK
+* Madamira
+* Google Translator & Google Spell Checker
 
 ## Setup
 To Use the package:
