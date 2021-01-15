@@ -11,7 +11,6 @@ idna==2.6
 image==1.5.32
 isort==4.3.21
 itypes==1.1.0
-Jinja2==2.10
 lazy-object-proxy==1.4.3
 MarkupSafe==1.0
 mccabe==0.6.1
@@ -21,7 +20,6 @@ pep8==1.7.1
 Pillow==5.0.0
 progressbar==2.5
 pycodestyle==2.5.0
-pycryptodome==3.5.1
 PyJWT==1.6.1
 pylint==2.4.4
 pytwain==2.0
@@ -34,5 +32,4 @@ sqlparse==0.2.4
 texttable==1.4.0
 typed-ast==1.4.1
 uritemplate==3.0.0
-urllib3==1.22
 wrapt==1.11.2
