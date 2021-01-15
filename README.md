@@ -14,6 +14,7 @@ This project uses APIs such as UMLS and CRF deep learning
 ## Setup
 To Use the package:
 ```
+$pip install requirements.txt
 $cd extraction
 $pip install .
 ```
