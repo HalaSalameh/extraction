@@ -19,7 +19,7 @@ pep8==1.7.1
 Pillow==7.1.0
 progressbar==2.5
 pycodestyle==2.5.0
-PyJWT==1.6.1
+PyJWT==2.4.0
 pylint==2.4.4
 pytwain==2.0
 pytz==2018.4
